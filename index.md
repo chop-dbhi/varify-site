@@ -3,7 +3,7 @@ layout: default
 title: "Varify"
 ---
 
-### Verify with Varify.
+### Verify with Varify
 Quickly discover clinically relevant variants using integrated annotations sources.
 
 
@@ -46,11 +46,3 @@ the first step is to select a sample that is of interest
 a step-by-step dialog taking the user through most of the above listed annotations with proper defaults
 
 
-
-
-
-#### Don't Forget
-
-- Add your own content to this page (i.e. `index.md`) and change the `title`
-- Change `title` and `subtitle` defined in `config.yml` for your site
-- Set the `baseurl` in `_config.yml` for your repo if deploying to GitHub pages

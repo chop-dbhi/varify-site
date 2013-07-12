@@ -1,6 +1,6 @@
 # Site title and subtitle. This is used in _includes/header.html
-title: 'jekyll-docs-template'
-subtitle: 'Painless documentation for your projects'
+title: 'Varify'
+subtitle: 'Quickly discover clinically relevant variants using integrated annotations sources.'
 
 # Default categories (in order) to appear in the navigation
 sections: [
