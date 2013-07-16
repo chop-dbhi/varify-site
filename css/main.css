@@ -7,7 +7,8 @@ pre, code {
     border: none;
     border-radius: 0;
     background-color: #f9f9f9;
-    font-size: 0.85em;
+    /*font-size: 0.85em;*/
+    font-size: 18px;
 }
 
 pre {
@@ -21,7 +22,6 @@ code {
 #header {
     border-bottom: 1px solid #eee;
     margin-bottom: 20px;
-    font-size: 10em;
 }
 
 #header a:hover {
