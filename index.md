@@ -13,7 +13,7 @@ amount of data presents data management and use challenges that Varify exists to
 an integrated data warehouse and analysis suite that enables a researcher to annotate variants one
 sample at a time. Varify was developed in colloboration with the NHGRI Clinical Sequencing Exploratory
 Research program, and CHOP's clinical laboratories. It was built using
-<a href="harvest.research.chop.edu">Harvest</a>, an open-source, web-based biomedical application
+[Harvest](http://harvest.research.chop.edu/), an open-source, web-based biomedical application
 development framework.  Varify's data warehouse was deployed on the open-source PostgreSQL relational
 database.  Unique variants are combined from all samples into one table.  The report for each sample
 includes a variety of annotations, and the user has the ability to sort his or her results according
