@@ -4,7 +4,7 @@ title: "Varify"
 ---
 
 # Verify with Varify
-Quickly discover clinically relevant variants using integrated annotations sources.
+#### Quickly discover clinically relevant variants using integrated annotations sources.
 
 Next generation sequencing technologies are allowing researchers to generate millions of genomic
 variants routinely, and this growth of data provides opportunities to uncover information involving
