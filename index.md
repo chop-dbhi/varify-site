@@ -6,43 +6,20 @@ title: "Varify"
 ### Verify with Varify
 Quickly discover clinically relevant variants using integrated annotations sources.
 
+Next generation sequencing technologies are allowing researchers to generate millions of genomic
+variants routinely, and this growth of data provides opportunities to uncover information involving
+allele frequencies and variant differences between various samples, patients, and cohorts.  This large
+amount of data presents data management and use challenges that Varify exists to solve.  Varify is
+an integrated data warehouse and analysis suite that enables a researcher to annotate variants one
+sample at a time. Varify was developed in colloboration with the NHGRI Clinical Sequencing Exploratory
+Research program, and CHOP's clinical laboratories. It was built using
+<a href="harvest.research.chop.edu">Harvest</a>, an open-source, web-based biomedical application
+development framework.  Varify's data warehouse was deployed on the open-source PostgreSQL relational
+database.  Unique variants are combined from all samples into one table.  The report for each sample
+includes a variety of annotations, and the user has the ability to sort his or her results according
+to various filters.  Navigate through this site using the menu on the left to discover more details on
+Varify's capabilities and how to access this tool.
 
-### First Features and Annotations
 
-Deleterious Probabilities
-
-SIFT
-PolyPhen2
-Allele Frequency Data
-
-1000G, combined allele frequency, combined allele count
-EVS, combined allele frequency, combined allele count
-Genes
-
-approved HGNC gene symbols, names, and synonyms
-transcripts and exons from RefSeq that can be mapped to HGNC genes
-Gene Lists
-
-the single gene list will be in there as well
-Disease and Phenotype
-
-diseases loaded from HGMD linked at the gene level and variant level
-early stages of phenotype data loaded from NCBO linked to gene
-Variant Effects
-
-SNPEff variant effects and impact
-PubMed IDs
-
-derived from HGMD and linked to genes and variants
-Project-level hierarchy
-
-all samples are tracked via the following hierarchy (this enables a permissions system): PROJECT → COHORT → SAMPLE → RESULTS
-Samples
-
-Standard VCF fields - genotype, quality, depth of coverage, etc.
-Analysis Workflow
-
-the first step is to select a sample that is of interest
-a step-by-step dialog taking the user through most of the above listed annotations with proper defaults
 
 
