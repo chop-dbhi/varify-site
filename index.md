@@ -3,7 +3,7 @@ layout: default
 title: "Varify"
 ---
 
-### Verify with Varify
+# Verify with Varify
 Quickly discover clinically relevant variants using integrated annotations sources.
 
 Next generation sequencing technologies are allowing researchers to generate millions of genomic
