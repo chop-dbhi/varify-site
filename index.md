@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Varify"
+order: 1
 ---
 
 # Verify with Varify
