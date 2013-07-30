@@ -4,7 +4,7 @@ title: "Varify"
 order: 1
 ---
 
-# Verify with Varify
+# <i>Verify</i> with Varify.
 #### Quickly discover clinically relevant variants using integrated annotations sources.
 
 Next generation sequencing technologies are allowing researchers to generate millions of genomic
