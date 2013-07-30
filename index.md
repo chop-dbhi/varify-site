@@ -6,10 +6,8 @@ order: 1
 
 # *Verify* with Varify.
 #### Quickly discover clinically relevant variants using integrated annotations sources.
-<br>
-<br>
-<br>
-Next generation sequencing technologies are allowing researchers to generate millions of genomic
+
+<br><br><br>Next generation sequencing technologies are allowing researchers to generate millions of genomic
 variants routinely, and this growth of data provides opportunities to uncover information involving
 allele frequencies and variant differences between various samples, patients, and cohorts.  This large
 amount of data presents data management and use challenges that Varify exists to solve.  Varify is
