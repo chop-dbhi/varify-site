@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: navbar
 title: "Varify"
 order: 1
 ---
