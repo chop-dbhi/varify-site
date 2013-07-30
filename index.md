@@ -1,26 +1,57 @@
----
-layout: default
-title: "Varify"
-order: 1
----
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
 
-# Verify with Varify
-#### Quickly discover clinically relevant variants using integrated annotations sources.
+    <title>Varify</title>
 
-Next generation sequencing technologies are allowing researchers to generate millions of genomic
-variants routinely, and this growth of data provides opportunities to uncover information involving
-allele frequencies and variant differences between various samples, patients, and cohorts.  This large
-amount of data presents data management and use challenges that Varify exists to solve.  Varify is
-an integrated data warehouse and analysis suite that enables a researcher to annotate variants one
-sample at a time. Varify was developed in colloboration with the NHGRI Clinical Sequencing Exploratory
-Research program, and CHOP's clinical laboratories. It was built using
-[Harvest](http://harvest.research.chop.edu/), an open-source, web-based biomedical application
-development framework.  Varify's data warehouse was deployed on the open-source PostgreSQL relational
-database.  Unique variants are combined from all samples into one table.  The report for each sample
-includes a variety of annotations, and the user has the ability to sort his or her results according
-to various filters.  Navigate through this site using the menu on the left to discover more details on
-Varify's capabilities and how to access this tool.
+    <!-- Bootstrap core CSS -->
+    <link href="../bootstrap/css/bootstrap.css" rel="stylesheet">
 
+    <!-- Custom styles for this template -->
+    <link href="navbar-fixed-top.css" rel="stylesheet">
+  </head>
 
+  <body>
 
+    <!-- Fixed navbar -->
+    <div class="navbar navbar-fixed-top">
+      <div class="container">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".nav-collapse">
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand" href="#">Project name</a>
+        <div class="nav-collapse collapse">
+          <ul class="nav navbar-nav">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#about">About</a></li>
+            <li><a href="#contact">Contact</a></li>
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Dropdown <b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li><a href="#">Action</a></li>
+                <li><a href="#">Another action</a></li>
+                <li><a href="#">Something else here</a></li>
+                <li class="divider"></li>
+                <li class="nav-header">Nav header</li>
+                <li><a href="#">Separated link</a></li>
+                <li><a href="#">One more separated link</a></li>
+              </ul>
+            </li>
+          </ul>
+          <ul class="nav navbar-nav pull-right">
+            <li><a href="/examples/navbar/">Default</a></li>
+            <li><a href="/examples/navbar-static-top/">Static top</a></li>
+            <li class="active"><a href="/examples/navbar-fixed-top/">Fixed top</a></li>
+          </ul>
+        </div><!--/.nav-collapse -->
+      </div>
+    </div>
 
+  </body>
+</html>
