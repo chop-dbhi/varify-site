@@ -6,7 +6,7 @@ order: 1
 
 # *Verify* with Varify. 
 
-<img src="https://github.com/nmferraro5/nmferraro5.github.io/blob/master/checkmark.png?raw=true" alt="Check" height="200" width="200" align="right">
+<img src="https://github.com/nmferraro5/nmferraro5.github.io/blob/master/checkmark.png?raw=true" alt="Check" height="300" width="300" align="right">
 
 <br>
 #### Quickly discover clinically relevant variants using integrated annotations sources.
