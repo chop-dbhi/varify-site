@@ -4,12 +4,14 @@ title: "Varify"
 order: 1
 ---
 
+<div bgcolor = #d3d3d3 height="300" width="300">
 # *Verify* with Varify. 
 
 <img src="https://github.com/nmferraro5/nmferraro5.github.io/blob/master/checkmark.jpg?raw=true" alt="Check" height="150" width="150" align="right">
 
 <br>
 #### Quickly discover clinically relevant variants using integrated annotations sources.
+</div>
 
 <br>Next generation sequencing technologies are allowing researchers to generate millions of genomic
 variants routinely, and this growth of data provides opportunities to uncover information involving
