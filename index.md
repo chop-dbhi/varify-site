@@ -10,7 +10,7 @@ order: 1
 <img src="https://github.com/nmferraro5/nmferraro5.github.io/blob/master/checkmark.png?raw=true" alt="Check" height="200" width="200" align="right">
 
 <br>
-#### Quickly discover clinically relevant variants using integrated annotations sources.
+#### Quickly discover clinically relevant variants using integrated annotation sources.
 
 
 <br>Next generation sequencing technologies are allowing researchers to generate millions of genomic
