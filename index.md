@@ -24,7 +24,7 @@ order: 1
         </p>
   </div>
   <div class="span6">
-    <h2>Who developed Verfiy?</h2>
+    <h2>Who developed Verify?</h2>
         <p>Varify was developed by the Center for Biomedical Informatics at the Children's Hospital 
         	of Philadelphia in colloboration with the NHGRI Clinical Sequencing Exploratory
 			Research program, and CHOP's clinical laboratories.</p>
