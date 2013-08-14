@@ -14,12 +14,10 @@ order: 1
 <div class="row-fluid">
   <div class="span6">
     <h2>What is Verify?</h2>
-        <p>Next generation sequencing technologies are allowing researchers to generate millions of genomic
-			variants routinely, and this growth of data provides opportunities to uncover information involving
-			allele frequencies and variant differences between various samples, patients, and cohorts.  This large
-			amount of data presents data management and use challenges that Varify exists to solve.  Varify is
-			an integrated data warehouse and analysis suite that enables a researcher to annotate variants one
-			sample at a time.</p>
+        <p>Varify is an integrated data warehouse and analysis suite that enables a researcher to annotate variants one
+			sample at a time. Next generation sequencing technologies are allowing researchers to generate millions of genomic
+			variants routinely, and this provides opportunities to uncover information involving
+			allele frequencies and variant differences between various samples, patients, and cohorts. </p>
         </p>
   </div>
   <div class="span6">
