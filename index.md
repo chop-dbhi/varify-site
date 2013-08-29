@@ -6,13 +6,12 @@ order: 1
 
 
 <h1><i>Verify</i> with Varify.</h1> 
-
+<img src="https://github.com/nmferraro5/nmferraro5.github.io/blob/master/_posts/dna_check.png?raw=true" align="left">
 
 <br>
 
-<div style="background-color:#d3d3d3 height=100 width=100">
-<h3>Quickly discover clinically relevant variants using integrated annotation sources.</h3>
-</div>
+###Quickly discover clinically relevant variants using integrated annotation sources.
+
 
 <div class="row-fluid">
   <div class="span6">
