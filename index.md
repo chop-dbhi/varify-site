@@ -5,7 +5,7 @@ order: 1
 ---
 
 
-<img src="https://github.com/nmferraro5/nmferraro5.github.io/blob/master/checkmark.jpg?raw=true" align="right" height="200" width="200">
+<img src="https://github.com/nmferraro5/nmferraro5.github.io/blob/master/checkmark.jpg?raw=true" align="right" height="160" width="160">
 <h1><i>Verify</i> with Varify.</h1>
 
 <br>
