@@ -9,7 +9,10 @@ order: 1
 
 
 <br>
-### Quickly discover clinically relevant variants using integrated annotation sources.
+
+<div bgcolor="#d3d3d3" height="100" width="100">
+<h3>Quickly discover clinically relevant variants using integrated annotation sources.</h3>
+</div>
 
 <div class="row-fluid">
   <div class="span6">
