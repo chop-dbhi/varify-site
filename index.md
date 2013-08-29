@@ -5,8 +5,8 @@ order: 1
 ---
 
 
-<h1><i>Verify</i> with Varify.</h1> 
-<img src="https://github.com/nmferraro5/nmferraro5.github.io/blob/master/_posts/dna_check.png?raw=true" align="left">
+<h1><i>Verify</i> with Varify.</h1> <img src="https://github.com/nmferraro5/nmferraro5.github.io/blob/master/_posts/checkmark.png?raw=true" align="left">
+
 
 <br>
 
