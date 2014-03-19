@@ -25,7 +25,7 @@ pygments: true
 future: true
 
 # Exclude non-site files
-exclude: ['bin', 'README.md']
+exclude: ['bin', 'README.md', 'fabfile.py' ]
 
 # Use the redcarpet Markdown renderer
 markdown: redcarpet
