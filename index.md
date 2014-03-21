@@ -4,7 +4,7 @@ title: "Varify-- Next Generation Sequence Interpretation and Knowledge Capture"
 order: 1
 ---
 
-<img src="{{ site.baseurl }}media/main/varify_logo.png" width="600">
+<img src="{{ site.baseurl }}media/main/Varify_logo.png" width="600">
 <h3>Open-source, Genome-scale Variant Interpretation and Knowledge Capture</h3>
 <p class=lead>Next generation sequencing technologies generate vast amounts of potentially useful data. Analysis and interpretation of this data can be a time consuming process. Varify is a platform to empower analysts to turn raw DNA sequence data into actionable information. The Center for Biomedical Informatics at The Children's Hospital of Philadelphia developed Varify as part of the <a href="http://www.research.chop.edu/programs/pediseq/">PediSeq project</a>, an <a href="http://projectreporter.nih.gov/project_info_description.cfm?projectnumber=5U01HG006546-02">NHGRI-funded effort</a> in the <a href="https://www.genome.gov/27546194">Clinical Sequencing Exploratory Research Program.</a></p>
 
